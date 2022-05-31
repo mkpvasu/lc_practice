@@ -1,0 +1,2 @@
+# lc_practice
+Leetcode
